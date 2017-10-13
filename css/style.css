@@ -73,12 +73,17 @@ p a:hover, p a:active {
 	width: 100%;
 }
 
+.col-4 {
+		
+}
+
 #press a:hover {
 	border: 5px solid rgb(152, 173, 166);
 }
 
 #press img {
 	border: 5px solid #ccc;
+	padding: 1px;
 }
 
 .clearfix:after {
