@@ -81,7 +81,7 @@ p a:hover, p a:active {
 	text-decoration: underline;
 }
 
-#press a:hover {
+#press img:hover {
 	border: 5px solid rgb(152, 173, 166);
 
 }
