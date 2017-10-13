@@ -72,3 +72,12 @@ p a:hover, p a:active {
 	border: 5px solid rgb(152, 173, 166);
 	width: 100%;
 }
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	height: 0;
+	line-height: 0;
+}
