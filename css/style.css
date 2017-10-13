@@ -38,3 +38,8 @@ h1 {
 	font-family: 'Bakserville', serif;
 	border-bottom: 1px solid #ccc;
 }
+
+h1 a {
+	color: rgb(152, 173, 166);
+	text-decoration: none;
+}
