@@ -76,8 +76,13 @@ p a:hover, p a:active {
 	width: 24.5%;
 }
 
+#press a {
+	background: transparent;
+}
+
 #press a:hover {
 	border: 5px solid rgb(152, 173, 166);
+	
 }
 
 #press img {
