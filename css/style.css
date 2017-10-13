@@ -31,9 +31,9 @@ body {
 h1 {
 	color: rgb(152, 173, 166);
 	text-decoration: none;
-	margin: 0, 0, 5px;
+	margin: 0 0 5px;
 	font-size: 5em;
 	font-weight: normal;
 	font-family: 'Bakserville', serif;
-	border: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
 }
