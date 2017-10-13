@@ -58,6 +58,10 @@ p {
 	margin: 0 0 20px 0;
 }
 
+p a:link, p a:visited {
+	text-decoration: none;
+}
+
 #necklace {
 	border: 5px solid rgb(152, 173, 166);
 	width: 100%;
