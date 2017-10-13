@@ -78,7 +78,7 @@ p a:hover, p a:active {
 
 #press a:hover {
 	border: 5px solid rgb(152, 173, 166);
-	height: 100%;
+	height: 10px;
 }
 
 #press img {
