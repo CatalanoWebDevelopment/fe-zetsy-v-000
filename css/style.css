@@ -73,8 +73,8 @@ p a:hover, p a:active {
 	width: 100%;
 }
 
-#press a {
-	border: 5px solid #ccc;
+#press a:hover {
+	border: 5px solid rgb(152, 173, 166);
 }
 
 #press img {
