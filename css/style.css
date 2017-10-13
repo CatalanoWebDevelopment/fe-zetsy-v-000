@@ -94,3 +94,8 @@ p a:hover, p a:active {
 	height: 0;
 	line-height: 0;
 }
+
+footer {
+	font-size: 0.75 em;
+	float: right;
+}
