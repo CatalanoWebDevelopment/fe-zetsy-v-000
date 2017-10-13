@@ -96,7 +96,7 @@ p a:hover, p a:active {
 }
 
 footer {
-	padding-top: 10px;
+	padding-top: 20ppx;
 	margin: 0 0 20px 0;
 	display: block;
 	font-size: 0.8 em;
