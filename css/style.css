@@ -60,6 +60,12 @@ p {
 
 p a:link, p a:visited {
 	text-decoration: none;
+	color: #1783bb;
+}
+
+p a:hover, p a:active {
+	text-decoration: underline;
+	color: #1783bb;
 }
 
 #necklace {
