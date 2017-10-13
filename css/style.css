@@ -72,8 +72,8 @@ p a:hover, p a:active {
 	width: 100%;
 }
 
-a.col-4 {
-	width: 11%;
+.col-4 {
+	width: 24.5%;
 }
 
 #press a:hover {
